@@ -19,6 +19,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [TED talk on paswords](https://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd) - Kind of like the xkcd comic, but a TED Talk.
 * [Naked Security: how to pick a proper password](https://nakedsecurity.sophos.com/2014/10/01/how-to-pick-a-proper-password/) - Remember! Non text/phone based 2FA significantly increases the security of accounts!  
 * [Alternative xkcd comic](https://xkcd.com/538/) - Remember, cryptography is for math and code not meatspace. 
+* [nulab - Algorithms behind password strength checkers](https://nulab-inc.com/blog/nulab/password-strength/) - A insight into how password strength is measured.
 ### Tools
 * [xk password tool](https://xkpasswd.net/s/) - Inspired by the xkcd comic. Offers multiple configurations and customizable options.
 * [How to use dice to make passwords](https://sec.eff.org/blog/how-to-roll-a-strong-password-with-20-sided-dice-and-fandom-inspired-wordlists) - EFF explains how to make passwords using dice.
