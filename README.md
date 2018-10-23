@@ -11,6 +11,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Computerphile: how to choose a secure password](https://www.youtube.com/watch?v=3NjQ9b3pgIg) - YouTube video explaining how to choose a secure password.
 * [Computerphile: how to crack a password](https://www.youtube.com/watch?v=7U-RbOKanYs) - YouTube video explaining some of the methods used to crack passwords.
 * [Troy Hunt's password tips](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/) - Troy Hunt has some of the best articles and tools out there on passwords. This is one of the latest. 
+* [Seth Godin talks about passwords](https://seths.blog/2018/10/letters-and-numbers/) - Very simple and easy to understand with a focus on UX (security at the cost of usability comes at the cost of security!).
 * [GRC Password Haystack](https://www.grc.com/haystack.htm) - Explains how to make passwords secure and has lots of relevant links to resources.
 * [Why randomness matters](https://blog.cloudflare.com/why-randomness-matters/) - An explanation of entropy and why it matters for security.
 * [Wikipedia: password](https://en.wikipedia.org/wiki/Password) - Covers all the bases. Great if you want to explore the core concepts from cryptography and computer science that are used in password creation.  
