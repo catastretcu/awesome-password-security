@@ -5,7 +5,7 @@ Tools and strategies to create stronger and more memorable passwords.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-### Strategies & Information
+### Information
 * [xkcd password commic](https://www.xkcd.com/936/) - Short and intuitive explanation of literally everything else in this list.
 * [reddit thread on xkcd password commic](https://www.reddit.com/r/askscience/comments/wmzrz/is_xkcd_right_about_password_strength/) - More technical and in depth explanations on the comic. 
 * [Computerphile: how to choose a secure password](https://www.youtube.com/watch?v=3NjQ9b3pgIg) - YouTube video explaining how to choose a secure password.
