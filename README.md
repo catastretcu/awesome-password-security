@@ -1,4 +1,4 @@
-# awesome-password-security
+# awesome-password-security[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![xkcd password strength cartoon](https://imgs.xkcd.com/comics/password_strength.png)
 
 ### Tools and strategies to create stronger and more memorable passwords.
